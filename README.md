@@ -42,3 +42,7 @@ Performance: The model successfully identified basic patterns (e.g., words like 
 Limitation: With a very small dataset (6 rows), accuracy remains low. To achieve industry-standard accuracy (>95%), a larger dataset like the UCI SMS Spam Collection is required.
 6. Conclusion
 The project demonstrates that even a simple Naive Bayes model can effectively filter messages. By scaling the dataset and using advanced techniques like TF-IDF (Term Frequency-Inverse Document Frequency), the system can become a robust tool for enhancing email security and user experience.
+
+**Screenshots**
+
+<img width="1849" height="832" alt="Screenshot 2026-03-26 181044" src="https://github.com/user-attachments/assets/7d2b1ece-49cf-479e-9fdd-48ae5995d6d1" />
